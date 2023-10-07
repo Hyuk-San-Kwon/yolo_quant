@@ -1,0 +1,30 @@
+cpu
+
+Infer time: 0.0347s
+
+Infer time: 0.0368s
+
+Infer time: 0.0357s
+gpu
+
+Infer time: 0.9126s
+
+Infer time: 0.8987s
+
+Infer time: 0.9130s
+
+fp 16
+
+Infer time: 0.0025s
+
+Infer time: 0.0027s
+
+Infer time: 0.0025s
+
+int 8
+
+Infer time: 0.0046s
+
+Infer time: 0.0042s
+
+Infer time: 0.0043s
